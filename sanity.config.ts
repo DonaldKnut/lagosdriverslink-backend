@@ -4,7 +4,7 @@ import {visionTool} from '@sanity/vision'
 import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
-  name: 'default',
+  name: 'LagosDriversLinkStudio',
   title: 'lagosdriverslink',
 
   projectId: '00h3fbf0',
